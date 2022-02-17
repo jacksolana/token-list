@@ -65771,10 +65771,10 @@
     {
       "chainId": 101,
       "address": "9tKEVUPrrWpa5vTy5jCBidQ54vC2y2715KyErNAn2E2S",
-      "symbol": "JKPT",
-      "name": "JUNKIEPACK Token",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/quintinmintiens/crypto/main/logo.png",
+      "symbol": "JACK",
+      "name": "JACK AGREGATOR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/jacksolana/JACK-AGREGATOR/main/a6csICov_400x400.jpg",
       "tags": [
         "social-token"
       ]
